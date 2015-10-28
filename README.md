@@ -4,7 +4,13 @@ Notes of useful stuff for Processing.
 
 ## Table of Contents
 
+* Setup
 * Functions
+* Libraries
+
+## Libraries
+
+* Syphon. Create a video feed from a PGraphics.
 
 ## Setup
 
