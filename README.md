@@ -26,7 +26,7 @@ You would be running this function repeatedly so the value eases towards its goa
 
 ### Ease A Value
 
-```
+```java
 float ease(float value, float newValue) {
   float diff = value - newValue;
   
