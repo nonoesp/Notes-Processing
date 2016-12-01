@@ -16,7 +16,7 @@ Notes of useful stuff for Processing.
 
 Set Pixel Density According to Display Density
 
-```
+```java
 pixelDensity(displayDensity());
 ```
 
