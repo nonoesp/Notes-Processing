@@ -37,3 +37,11 @@ float ease(float value, float newValue) {
   return value;
 }
 ```
+
+### Is Even
+
+```java
+boolean isEven(int n){
+  return n % 2 == 0;
+}
+```
