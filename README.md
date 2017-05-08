@@ -45,3 +45,11 @@ boolean isEven(int n){
   return n % 2 == 0;
 }
 ```
+
+### Timestamp
+
+A timestamp formatted in `yymmdd_hhmmss`.
+
+```java
+String timestamp = (year() + "").substring(2,4) + nf(month(), 2) + nf(day(), 2) + "_" + hour() + minute() + second();
+```
